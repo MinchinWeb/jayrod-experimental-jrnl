@@ -1,0 +1,5 @@
+#!/root/projects/jrnl_ext/venv/bin/python
+from jrnl.cli import cli
+
+if __name__ == '__main__':
+    cli()
